@@ -1,2 +1,2 @@
 # 1398Projects
-This repository includes the last year students' projects and thesis
+This repository include the last year students' projects and thesis
